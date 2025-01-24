@@ -1,6 +1,6 @@
 # Liver-Disease-Prediction
 
-Liver disease is a significant health concern worldwide and early detection plays a crucial role in its management and treatment. This liver disease prediction model aims to assist in identifying individuals who may be at risk of developing liver disease based on their clinical data. It utilizes machine learning techniques to predict the likelihood of liver disease and provide valuable insights to healthcare professionals.
+Liver disease refers to a broad range of conditions that affect the liver's structure and function, potentially leading to severe health complications if left untreated. Liver diseases can be caused by infections, genetic factors, excessive alcohol consumption, obesity, and autoimmune disorders. It utilizes machine learning techniques to predict the likelihood of liver disease and provide valuable insights to healthcare professionals.
 
 Dataset:
 The prediction model is built using a dataset that includes various clinical features of individuals, such as age, gender, body mass index (BMI), alcohol consumption, presence of diabetes, total bilirubin levels, direct bilirubin levels, alkaline phosphatase levels, and more. The dataset is labeled with binary outcomes indicating the presence or absence of liver disease.
